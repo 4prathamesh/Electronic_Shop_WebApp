@@ -1,0 +1,56 @@
+Project Title :-  Electronic Shop 
+
+* String Structure of Project *
+Users :-
+
+1) Super Admin 
+	a. add new vendor / view / delete / update /select vendors 
+	b. add new product category
+	c. add new product / view / product 
+	d. sale product to customers and create warranty card 
+	e. add new Sub admin
+	f. add new employee
+	
+
+2) sub Admin-
+	a. Add New Employee
+	b. add new Customer and sale product to customer and generate warranty card
+	c. view customer complains 
+	d. Allocate employee to customer complain 
+	e. view stock
+
+3) End User
+	a. login to portal
+	b. view own products
+	c. raise complain
+	d. view employee allocate employee detail
+
+4) Employee 
+	a. view own orders on same day
+	b. view pending customers
+	c. view own stock
+	d. update used material
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
